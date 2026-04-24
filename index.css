@@ -232,7 +232,7 @@ svg {
 
 .hero-section {
   padding-top: 2rem;
-  padding-bottom: 4rem;
+  padding-bottom: 8rem;
   overflow: hidden;
 }
 
@@ -325,8 +325,8 @@ svg {
 .shortener-section {
   background-color: var(--gray-bg);
   padding-bottom: 3rem;
-  position: relative;
   z-index: 1;
+  
 }
 
 .shortener-section .container-xl {
@@ -641,7 +641,7 @@ svg {
   left: 2rem;
 }
 
-.feature-icon-wrap svg {
+.feature-icon-wrap img {
   width: 40px;
   height: 40px;
 }
